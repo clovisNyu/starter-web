@@ -6,7 +6,4 @@
 
 ##How to contribute
 
-<<<<<<< HEAD
-=======
-something
->>>>>>> simple-changes
+Some changes
