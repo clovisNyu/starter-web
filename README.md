@@ -6,4 +6,7 @@
 
 ##How to contribute
 
-ISSUE PULL REQUEST
+<<<<<<< HEAD
+=======
+something
+>>>>>>> simple-changes
