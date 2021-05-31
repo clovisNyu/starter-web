@@ -4,6 +4,7 @@
 # TEAM
 
     Clovis
+	NOT TROUBLE
 
 # THANKS
 	All students
@@ -11,6 +12,6 @@
     <name>
 
 # TECHNOLOGY COLOPHON
-
+	NOT TROUBLE
     HTML5, CSS3
     jQuery, Modernizr
